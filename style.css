@@ -40,9 +40,8 @@ body {
   color : #7fe6dc;
 }
 .hero {
-  background: linear-gradient(rgba(15, 76, 92, 0.85), rgba(15, 76, 92, 0.85)),
-    url("https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=1400&q=80");
-  background-size: cover;
+  background: linear-gradient(rgba(8, 107, 132, 0.85), rgba(15, 76, 92, 0.85)),
+url("images/image1.jpg");  background-size: cover;
   background-position: center;
   color: white;
   text-align: center;
@@ -149,7 +148,7 @@ body {
 }
 
 .footer {
-  background : #0f4c5c;
+  background : #0a4958;
   color : white;
   text-align : center ;
   padding : 18px 20px;
